@@ -2,3 +2,9 @@ Qualquer coisa
 
 
 Em MarkDown
+
+|Final do Arquivo
+
+Este comando se autodestruir ao executar o git checkout
+
+Neste momento estou utilizando o branch hotfix
